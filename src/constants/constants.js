@@ -2,11 +2,11 @@ export const projects = [
   {
     title: "Mapty",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "Mapty is a workout application where the user can mark anywhere in the world where they finished a workout, or even plan for future workouts.",
 
-    tags: ["Mongo", "Express", "React", "Node"],
+    tags: ["JavaScript"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/Tav-ish/tavish-mapty",
     id: 0,
   },
   {
@@ -22,19 +22,18 @@ export const projects = [
   {
     title: "React Dashboard Application",
     description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+      "Using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid, this dashboard is a highly functional and user friendly application that consists of light and dark mode, many different charts and data tables, and calendar integration",
 
-    tags: ["React", "WebRTC"],
+    tags: ["React", "Material UI", "Data Grid", "Formik"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/Tav-ish/react-dashboard",
     id: 2,
   },
   {
     title: "PowerBI Dashboards",
-    description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "PowerBI dashboard with mock accident data",
 
-    tags: ["React", "ChatEngine", "Firebase"],
+    tags: ["PowerBI"],
     source: "https://google.com",
     visit: "https://google.com",
     id: 3,
