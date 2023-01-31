@@ -47,7 +47,7 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/Tav-ish">
         <AiFillGithub size="3rem" />
       </SocialIcons>
       <SocialIcons href="www.linkedin.com/in/tavish-n-193164a1">
