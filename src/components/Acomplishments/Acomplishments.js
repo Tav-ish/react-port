@@ -13,8 +13,10 @@ const data = [
     number: "Capstone",
     text: "Created .NET application with fully working database for the Walton College of Business",
   },
-  { number: 1900, text: "Github Followers" },
-  { number: 5000, text: "Github Stars" },
+  {
+    number: "Bachelors Degree",
+    text: "Information Systems with a focus on Blockchain Applications",
+  },
 ];
 
 const Acomplishments = () => (

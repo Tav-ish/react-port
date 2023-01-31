@@ -12,11 +12,11 @@ export const projects = [
   {
     title: "Today I Learned!",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "Today I Learned is a public fact sharing platform where users can enter interesting facts and learn about new things! All facts must be supported with a trusted source. Facts are able to be rated based off their legitimacy. Visit the site and enter your own fact!",
 
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://todayileaned-tnoel.netlify.app",
+    visit: "https://github.com/Tav-ish/today-I-learned",
     id: 1,
   },
   {
