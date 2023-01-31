@@ -2,10 +2,10 @@ export const projects = [
   {
     title: "Mapty",
     description:
-      "Mapty is a workout application where the user can mark anywhere in the world where they finished a workout, or even plan for future workouts.",
+      "Mapty is a workout application where the user can mark anywhere in the world where they finished a workout, or even plan for future workouts. Click the map to deploy a workout marker and fill in the criteria",
 
     tags: ["JavaScript"],
-    source: "https://google.com",
+    source: "https://mapty-tavish.netlify.app",
     visit: "https://github.com/Tav-ish/tavish-mapty",
     id: 0,
   },
