@@ -15,7 +15,7 @@ const data = [
   },
   {
     number: "Bachelors Degree",
-    text: "Information Systems with a focus on Blockchain Applications",
+    text: "Information Systems with a focus on Data Analytics",
   },
 ];
 

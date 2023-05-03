@@ -20,17 +20,16 @@ export const projects = [
     id: 1,
   },
   {
-    title: "React Dashboard Application",
-    description:
-      "Using React, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid, this dashboard is a highly functional and user friendly application that consists of light and dark mode, many different charts and data tables, and calendar integration",
+    title: "Tableau & Power BI Dashboards",
+    description: "Various Tableau and Power BI Dashboard I have created!",
 
-    tags: ["React", "Material UI", "Data Grid", "Formik"],
+    tags: ["Tableau", "Power BI", "SQL"],
     source: "https://google.com",
     visit: "https://github.com/Tav-ish/react-dashboard",
     id: 2,
   },
   {
-    title: "PowerBI Dashboards",
+    title: "Python Pandas Project",
     description: "PowerBI dashboard with mock accident data",
 
     tags: ["PowerBI"],
@@ -43,7 +42,7 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2018,
-    text: "Started school work at the University of Arkansas with a degree in Information Systems with a focus on data analytics",
+    text: "Started school work at the University of Arkansas with a degree in Information Systems with a focus on Data Analytics",
   },
   {
     year: 2019,
@@ -51,11 +50,11 @@ export const TimeLineData = [
   },
   {
     year: 2020,
-    text: "Focused on expanding my knowledge of Javascript and its frameworks, created my first website!",
+    text: "Focused on expanding my knowledge of front-end development. Learned JavaScript, HTML, CSS, and React. Created my first Website!",
   },
   {
     year: 2021,
-    text: "Started taking blockchain development classes at university, changed my degree focus to blockchain applications",
+    text: "Begun taking more advanced database classes. Developed strong skills with SQL and Microsoft SQL Server. This was also my first experience using Tableau and Power BI in visualization classes.",
   },
   {
     year: 2022,

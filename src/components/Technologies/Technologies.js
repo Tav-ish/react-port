@@ -27,13 +27,14 @@ const Technologies = () => (
       <ListItem>
         <DiReact size="4rem" />
         <ListContainer>
-          <ListTitle>Front-end</ListTitle>
+          <ListTitle>Programing Languages</ListTitle>
           <ListParagraph>
             Experience with <br />
             JavaScript <br />
             React.js <br />
             Next.js <br />
             .NET <br />
+            C# <br />
             HTML and CSS
           </ListParagraph>
         </ListContainer>
@@ -44,7 +45,8 @@ const Technologies = () => (
           <ListTitle>Back-end</ListTitle>
           <ListParagraph>
             Experience with <br />
-            MySQL <br />
+            SQL <br />
+            Microsoft SQL Server <br />
             MongoDB <br />
             Node.js
           </ListParagraph>
@@ -57,7 +59,7 @@ const Technologies = () => (
           <ListParagraph>
             Experience with <br />
             Tableau <br />
-            PowerBI
+            Power BI
           </ListParagraph>
         </ListContainer>
       </ListItem>
